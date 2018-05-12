@@ -1,0 +1,43 @@
+_repo: Facts-And-Fictions-Of-Life_42329
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gardener, Helen H. (Helen Hamilton)
+    alias: Chenoweth, Alice
+    birthdate: 1853
+    deathdate: 1925
+    gutenberg_agent_id: '34434'
+    url: http://www.gutenberg.org/2009/agents/34434
+description: 'Title; Contents; Preface; The Fictions of Fiction; A Day in Court; Thrown
+  in with the City''s Dead; An Irresponsible Educated Class; Sex in Brain; Woman as
+  an Annex; The Moral Responsibility of Woman in Heredity; Heredity in its Relations
+  to a Double Standard of Morals; Divorce and the Proposed National Laws; Lawsuit
+  or Legacy; Points Humorous and Otherwise About Life Insurance; Common Sense in Surgery;
+  Heredity: Is Acquired Character or Condition Transmittible?; Environment: Can Heredity
+  Be Modified; Endnotes.'
+gutenberg_issued: '2013-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42329'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Feminism'
+- !lcsh 'American essays -- 19th century'
+- !lcsh 'Women -- United States -- Social conditions'
+- !lcsh 'Women -- Suffrage -- United States'
+tableOfContents: 'The fictions of fiction -- A day in court -- Thrown in with the
+  city''s dead -- An irresponsible educated class -- Sex in brain -- Woman as an annex
+  -- The moral responsibility of woman in heredity -- Heredity in its relations to
+  a double standard of morals -- Divorce and the proposed national laws -- Lawsuit
+  or legacy -- Points humorous and otherwise about life insurance -- Common sense
+  in surgery -- Heredity: is acquired character or condition transmittible? -- Environment:
+  can heredity be modified?'
+title: Facts and Fictions of Life
+url: http://www.gutenberg.org/ebooks/42329
